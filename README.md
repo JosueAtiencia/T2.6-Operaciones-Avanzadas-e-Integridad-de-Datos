@@ -1,0 +1,1 @@
+# T2.6-Operaciones-Avanzadas-e-Integridad-de-Datos
